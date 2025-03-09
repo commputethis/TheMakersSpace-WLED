@@ -29,6 +29,22 @@
    - If your's went through the Wi-Fi configuration, you can skip to [Step 1a: Configuring WLED](#step-1a-configuring-wled)
    - If your's did not have the option to configure Wi-Fi, move onto [Step 1b: Connect to WLED](#step-1b-connect-to-wled)
 
+## Step 1a: Update Wi-Fi settings
+
+1. Click "VISIT DEVICE".
+   - ![wifi_configured](./images/wifi_configured.png)
+2. Click "Config".
+   - ![clickconig](./images/clickconfig.png)
+3. Click "WiFi Setup".
+   - ![click_wifi_setup](./images/click_wifi_setup.png)
+4. Scroll down and update mDNS address and AP SSID
+   - Update mDNS name.
+     - ![wifi_setup2](./images/wifi_setup2.png)
+   - Update AP SSID.
+     - ![wifi_setup3](./images/wifi_setup3.png)
+   - Click "Save & Connect".
+     - ![saveandconnect](./images/saveandconnect.png)
+
 ## Step 1b: Connect to WLED
 
 1. After flashing, restart the ESP8266.
@@ -54,22 +70,6 @@
      - ![saveandconnect](./images/saveandconnect.png)
 6. Connect your computer to `TheMakersSpace` Wi-Fi using password `Godisthemastermaker`.
    - ![themakersspace](./images/themakersspace.png)
-
-## Step 1a: Update Wi-Fi settings
-
-1. Click "VISIT DEVICE".
-   - ![wifi_configured](./images/wifi_configured.png)
-2. Click "Config".
-   - ![clickconig](./images/clickconfig.png)
-3. Click "WiFi Setup".
-   - ![click_wifi_setup](./images/click_wifi_setup.png)
-4. Scroll down and update mDNS address and AP SSID
-   - Update mDNS name.
-     - ![wifi_setup2](./images/wifi_setup2.png)
-   - Update AP SSID.
-     - ![wifi_setup3](./images/wifi_setup3.png)
-   - Click "Save & Connect".
-     - ![saveandconnect](./images/saveandconnect.png)
 
 ## Step 2: Configure WLED
 
