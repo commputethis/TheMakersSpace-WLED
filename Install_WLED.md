@@ -26,7 +26,7 @@
    - The following is what came up on my Ubuntu machine to configure Wi-Fi.
      - ![configure_wifi](./images/configure_wifi.png)
      - ![wifi_configured](./images/wifi_configured.png)
-   - If your's went through the Wi-Fi configuration, you can skip to [Step 1a: Configuring WLED](#step-1a-configuring-wled)
+   - If your's went through the Wi-Fi configuration, you can skip to [Step 1a: Update Wi-Fi settings](#step-1a-update-wi-fi-settings)
    - If your's did not have the option to configure Wi-Fi, move onto [Step 1b: Connect to WLED](#step-1b-connect-to-wled)
 
 ## Step 1a: Update Wi-Fi settings

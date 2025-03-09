@@ -14,4 +14,4 @@
    - Click "Save & Connect".
      - ![saveandconnect](./images/saveandconnect.png)
 5. Connect your computer/phone to your home network.
-6. Navigate to `http://wled-{name}.local.
+6. Navigate to `http://wled-{name}.local`.
