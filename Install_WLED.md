@@ -1,4 +1,4 @@
-# **Install and Configure WLED on an ESP8266 NodeMCU**
+# Install and Configure WLED on an ESP8266 NodeMCU
 
 ## Requirements
 
