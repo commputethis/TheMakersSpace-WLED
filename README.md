@@ -19,6 +19,10 @@ WLED - The first class of The Maker's Space at LBC on Monday, March 10, 2025
 
 [Connect the parts together](./Assemble_Parts.md)
 
+## Plug it in and Play
+
+Plug the power supply into an outlet and connect back to your device by opening a browser and going to `http://wled-{name}.local` where `{name}` is the name you entered during Installation and Configuration.
+
 ## It worked in class, what do I do when I get home?
 
 [How to connect to WLED when I get it home](./At_Home.md)
