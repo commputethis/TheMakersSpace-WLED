@@ -2,10 +2,14 @@
 
 ## Requirements
 
-- ESP8266 NodeMCU board
-- USB to Micro-USB cable
-- Computer with Windows, macOS, or Linux
-- Connect your computer to `TheMakersSpace` Wi-Fi using password `Godisthemastermaker`
+- ESP8266 NodeMCU board.
+- USB to Micro-USB cable.
+- Computer with Windows, macOS, or Linux.
+- Connect your computer to `TheMakersSpace` Wi-Fi using password `Godisthemastermaker`.
+- Driver for CH340.
+  - Windows Users need to install the [CH34X Driver](https://cdn.sparkfun.com/assets/learn_tutorials/8/4/4/CH341SER.EXE).
+  - MacOS (10.14 and newer) and Linux Users shouldn't need to as it should already be installed with the OS.
+    - If MacOS older than 10.14, install this [driver](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver).
 
 ## Step 1: Install WLED Using the Web Installer
 
