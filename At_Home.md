@@ -15,3 +15,5 @@
      - ![saveandconnect](./images/saveandconnect.png)
 5. Connect your computer/phone to your home network.
 6. Navigate to `http://wled-{name}.local`.
+
+Return to the [Main Page](./README.md)

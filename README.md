@@ -15,6 +15,10 @@ WLED - The first class of The Maker's Space at LBC on Monday, March 10, 2025
 
 [Install and Configure WLED on an ESP8266 NodeMCU](./Install_WLED.md)
 
+## Assemble the parts
+
+[Connect the parts together](./Assemble_Parts.md)
+
 ## It worked in class, what do I do when I get home?
 
 [How to connect to WLED when I get it home](./At_Home.md)

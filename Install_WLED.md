@@ -84,9 +84,8 @@
    - ![click_on_config](./images/click_on_config.png)
 3. Click "LED Preferences".
    - ![led_preferences](./images/led_preferences.png)
-4. Set `Maximum PSU Current:` to the Amperage of our Power Supply, which is `10000`mA.
+4. Set `Maximum PSU Current:` to the Amperage of our Power Supply, which is `5000`mA.
    - This will limit our power use to a safe amount within our power supply's limits.
-   - Note: this power supply is much larger than we need for the 3' LED strips we are using and we can ignore the high current warning, but pay attention to it if you are using a longer strip later.
    - ![set_amperage](./images/set_amperage.png)
 5. Verify `mA/LED"` is set to `55mA(typ. 5V WS281x)`.
    - If doing a project later, set it according to your LED's being used.
@@ -120,4 +119,4 @@
 
 For more details, visit the WLED Knowledge Base: [https://kno.wled.ge](https://kno.wled.ge)
 
-Enjoy your WLED-powered lighting setup!
+Head back over to the [Main Page](./README.md) to continue.
