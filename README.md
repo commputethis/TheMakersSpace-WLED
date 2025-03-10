@@ -8,7 +8,7 @@ WLED - The first class of The Maker's Space at LBC on Monday, March 10, 2025
 - [BTF Lighting 3.28', 60 LED, WS2812B LED Strip](https://a.co/d/fOVGHaN)
 - [5V 5A 25W Power Supply](https://a.co/d/1ltHFCJ)
 - Case for the ESP8266
-  - Designed by Don Potburry
+  - Designed by Don Potbury
   - ![esp8266_case](./images/esp8266_case.jpg)
 
 ## Install and Configure WLED
