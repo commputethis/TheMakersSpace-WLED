@@ -2,6 +2,8 @@
 
 WLED - The first class of The Maker's Space at LBC on Monday, March 10, 2025
 
+[Slide Presentation from the class](https://docs.google.com/presentation/d/e/2PACX-1vTMU5jozGco3_4xoUaJg8oqe3-n4SIu1JKPem6T8vIjdN8hxYfl3luAayAb0hzCIZtc7irKvKWYQRgE/pub?start=false&loop=false&delayms=30000)
+
 ## Items in Kit
 
 - [ESP8266 NodeMCU V3](https://support.envistiamall.com/kb/nodemcu-v3-lua-esp8266-esp-12e-ch340g-wifi-internet-of-things-development-board/)
